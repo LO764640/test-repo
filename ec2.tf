@@ -3,6 +3,6 @@
   }
   
  resource "aws_instance" "test" {
-  ami           = "ami-0747bdcabd34c712a"
+  ami           = "ami-09e67e426f25ce0d7"
   instance_type = "t2.micro"
 }
